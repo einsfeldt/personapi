@@ -17,6 +17,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.any;
 import static org.mockito.Mockito.when;
 
+// Codigo baseado na explicacao de Rodrigo Peleias (excelente por sinal)
+// Clase fake para fins de testes unitarios(Mock)
 @ExtendWith(MockitoExtension.class)
 public class PersonServiceTest {
 
