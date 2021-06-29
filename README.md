@@ -9,21 +9,6 @@ Durante a aula, foram desenvolvidos e fixados conceitos através dos objetivos:
 * Desenvolvimento de testes unitários para validação das funcionalidades;
 * Disponibilizar a API me núvem por meio do Heroku.
 
-Para executar o projeto no terminal, digite o seguinte comando:
-
-```shell script
-mvn spring-boot:run 
-```
-
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
-
-```
-http://localhost:8080/api/v1/people
-```
-
-
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
-
 Ferramental para preparar o ambiente de desenvolvimento:
 * [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/): Gerenciamento de versões de ferramentas instaladas
 * [Intellij IDEA Community](https://www.jetbrains.com/idea/download): Utilizada como IDE de desenvolvimento
@@ -33,12 +18,9 @@ Ferramental para preparar o ambiente de desenvolvimento:
 * [GitHub](http://github.com/): Armazenamento dos arquivos que compõe o projeto
 
 
-
 Bibliotecas excelentes para otimizar o desenvolvimento de código:
 * [Lombok](https://projectlombok.org/)
 * [Map Struct](https://mapstruct.org/)
 
-[Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
-
-
+Agradecido ao instrutor Rodrigo Peleias pelas valiosas dicas e didática excelente!
 
